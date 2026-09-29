@@ -1,0 +1,2 @@
+# Only needed for the web version (app.py). The terminal version (main.py) needs nothing.
+Flask>=3.0
